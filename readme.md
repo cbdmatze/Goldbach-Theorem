@@ -1,7 +1,7 @@
 
 Goldbach's conjecture is an unproven hypothesis in number theory, first proposed by German mathematician Christian Goldbach in 1742. 
 
-It posits that every even integer greater that 2 can be expressed as the sum of two prime numbers.
+It posits that every even integer greater than 2 can be expressed as the sum of two prime numbers.
 
 For example, 8 = 3 + 5, and 28 = 11 + 7. 
 
